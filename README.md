@@ -1,5 +1,7 @@
 # Handwritten Digit Recognition
 
+![Python](https://img.shields.io/badge/python-3.x-blue.svg)
+
 This project demonstrates the use of machine learning for handwritten digit recognition using the Random Forest Classifier. The project is built with Python and leverages the scikit-learn library to load, visualize, and classify digits from the well-known 'digits' dataset.
 
 ## Project Overview
