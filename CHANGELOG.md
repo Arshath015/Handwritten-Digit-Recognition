@@ -19,3 +19,6 @@ All notable changes to this project are documented here.
 
 ### 2026-08-02
 - Verified build/tooling configuration is current.
+
+### 2026-08-08
+- Documentation pass for clarity and consistency.
