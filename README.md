@@ -35,3 +35,10 @@ pip install scikit-learn matplotlib numpy
 
 ---
 **Last updated:** 2026-08-09
+
+
+## Requirements
+
+```
+pip install -r requirements.txt
+```
